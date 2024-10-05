@@ -27,7 +27,7 @@ pipeline{
                  [
                      artifactId: 'devops', 
                      classifier: '', 
-                     file: 'target/hiring.war', 
+                     file: '/var/jenkins_home/workspace/tarakiran/target/hiring.war', 
                      type: 'war'
                 ]
             ], 
