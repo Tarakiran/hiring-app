@@ -36,7 +36,7 @@ pipeline{
             nexusUrl: '18.206.54.146:8081', 
             nexusVersion: 'nexus3', 
             protocol: 'http', 
-            repository: 'spring-initial', 
+            repository: 'tarakiran', 
             version: '0.0.1'
             }
         }
